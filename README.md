@@ -64,18 +64,21 @@ The goal of this project was to demonstrate frontend architecture, UI design, an
 ## Project Structure
 
 src/
- ├── components/
- │   ├── Sidebar.jsx
- │   ├── Header.jsx
- │   ├── Cards.jsx
- │   ├── Charts.jsx
- │   ├── Transactions.jsx
- │   ├── Insights.jsx
- │
- ├── data/
- │   └── transactions.js
- │
- └── App.jsx
+├── components/
+│   ├── Sidebar.jsx
+│   ├── Header.jsx
+│   ├── Cards.jsx
+│   ├── Charts.jsx
+│   ├── Transactions.jsx
+│   └── Insights.jsx
+│
+├── data/
+│   └── transactions.js
+│
+├── App.jsx
+├── main.jsx
+├── index.css
+└── App.css
 
 
 ## Installation
