@@ -95,10 +95,10 @@ Run the development server:
 npm run dev
 
 
-## Live Demo
+ Live Demo
 
 ```
-https://your-vercel-link.vercel.app
+https://finance-dashboard-orcin-theta.vercel.app
 ```
 
 ## Author
