@@ -82,7 +82,7 @@ src/
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/finance-dashboard.git
+git clone https://github.com/ThePrakhar15/finance-dashboard
 ```
 Install dependencies:
 
