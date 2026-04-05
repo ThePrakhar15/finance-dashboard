@@ -63,6 +63,7 @@ The goal of this project was to demonstrate frontend architecture, UI design, an
 
 ## Project Structure
 
+```
 src/
 ├── components/
 │   ├── Sidebar.jsx
@@ -79,7 +80,7 @@ src/
 ├── main.jsx
 ├── index.css
 └── App.css
-
+```
 
 ## Installation
 
@@ -98,7 +99,7 @@ Run the development server:
 npm run dev
 
 
- Live Demo
+##Live Demo
 
 ```
 https://finance-dashboard-orcin-theta.vercel.app
